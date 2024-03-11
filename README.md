@@ -1,3 +1,6 @@
+![Screenshot 2024-03-11 224713](https://github.com/ArchProtios/Minimal-Website-React/assets/99127122/bbf78b5e-e668-4ae0-9bc3-aa896327fa2c)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
